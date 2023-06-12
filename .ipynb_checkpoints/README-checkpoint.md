@@ -31,11 +31,11 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 **Confusion Matrix:**
 
-| RESULTS  | Predicted 0 | Predicted 1 |
+           Pred. 0   Pred. 1
+    
+Actual 0     18663       102
 
-| Actual 0 |    18,663   |     102     |      
-
-| Actual 1 |        56   |     563     |
+Actual 1        56       563
 
 
 **Classification Report:**
@@ -59,11 +59,11 @@ weighted avg       0.99      0.99      0.99     19384
 
 **Confusion Matrix:**
 
-| RESULTS  | Predicted 0 | Predicted 1 |
+            Pred. 0  Pred. 1
 
-| Actual 0 |    18,649   |     116     |      
+Actual 0     18649       116
 
-| Actual 1 |         4   |     615     |
+Actual 1         4       615
 
 **Classification Report**
 
